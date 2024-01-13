@@ -1,4 +1,4 @@
-package juniorType;
+package proType;
 
 import com.codeborne.selenide.ElementsCollection;
 

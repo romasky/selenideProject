@@ -1,4 +1,4 @@
-package juniorType;
+package proType;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

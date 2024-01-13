@@ -1,2 +1,2 @@
-public class hendlers {
+public class handlers {
 }
